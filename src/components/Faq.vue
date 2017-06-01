@@ -35,7 +35,7 @@ export default {
   created() {
     axios.get('https://jsonplaceholder.typicode.com/posts')
     .then(response => {
-      this.faqs = response.data.slice(0,10);
+      this.faqs = response.data.slice(0,9);
     })
     .catch( e => {
       this.errors.push(e)

@@ -1,6 +1,6 @@
 # compare-vue
 
-> A Vue.js project
+> A Vue 2 project based on a tutorial you can check it here https://www.youtube.com/user/DesignCourse
 
 ## Build Setup
 
