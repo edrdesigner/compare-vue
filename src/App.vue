@@ -4,7 +4,8 @@
       <div class="nav has-shadow">
           <div class="container">
              <div class="nav-left">
-                <a class="nav-item">My Company</a>
+              
+                <router-link to="/" class="nav-item">My Company</router-link>
              </div>
              <span class="nav-toggle" v-on:click="toggleNav" v-bind:class="{ 'is-active': isActive }">
                 <span></span>
@@ -50,8 +51,8 @@
                   </p>
                 </div>
                 <div class="column has-text-right">
-                  <a class="icon" href="#"><i class="fa fa-facebook"></i></a>
-                  <a class="icon" href="#"><i class="fa fa-twitter"></i></a>
+                  <a class="icon" href="https://www.facebook.com" target="_blank"><i class="fa fa-facebook"></i></a>
+                  <a class="icon" href="https://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
                 </div>
                
             </div>
