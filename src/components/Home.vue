@@ -34,7 +34,7 @@
                 </div>
 
             </div>
-        </div>
+    
 
         <div class="columns pd">
            <div class="column">
@@ -62,6 +62,7 @@
               </div>
            </div>
         </div>
+       </div>
 
      </section>
   </div>
