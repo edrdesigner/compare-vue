@@ -1,0 +1,13 @@
+vue init webpack compare-vue
+
+Run time compiler
+install vue-router
+
+npm install bulma --save
+
+npm install node-sass sass-loder style-loader --save-dev
+
+npm install axios --save
+
+
+https://jsonplaceholder.typicode.com/posts
